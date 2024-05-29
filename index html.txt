@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta harman deep singh="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Site Header -->
+    <header>
+        <h1>Harman Deep Singh</h1>
+    </header>
+
+    <!-- Article About Me -->
+    <article>
+        <h2>About Me</h2>
+        <p>
+            Harman Deep Singh is a passionate individual who excels in various fields. His dedication and hard work are evident in everything he does. With a keen interest in technology, Harman has continually pursued knowledge in this ever-evolving field. He believes in continuous learning and strives to keep himself updated with the latest advancements.
+        </p>
+        <p>
+            Apart from his professional endeavors, Harman is also deeply involved in community service. He has volunteered for several non-profit organizations, contributing his time and skills to help those in need. His commitment to making a positive impact in society is truly commendable. In his free time, Harman enjoys reading, traveling, and exploring new cultures.
+        </p>
+
+        <!-- Motivational Quote -->
+        <blockquote>
+            "The only way to do great work is to love what you do." <cite>– Steve Jobs</cite>
+        </blockquote>
+    </article>
+
+    <!-- Footer with Copyright Information -->
+    <footer>
+        <p>&copy; 2024 Harman Deep Singh. All rights reserved.</p>
+    </footer>
+</body>
+</html>
